@@ -1,0 +1,137 @@
+{
+    "results": {
+      "songs": {
+        "href": "/v1/catalog/uz/search?limit=5&offset=4&term=Oybek+va+nigora&types=songs",
+        "next": "/v1/catalog/uz/search?offset=32&term=Oybek+va+nigora&types=songs",
+        "data": [
+          {
+            "id": "1590685327",
+            "type": "songs",
+            "href": "/v1/catalog/uz/songs/1590685327",
+            "attributes": {
+              "hasTimeSyncedLyrics": false,
+              "albumName": "Shirintoyim",
+              "genreNames": [
+                "Pop",
+                "Music"
+              ],
+              "trackNumber": 7,
+              "releaseDate": "2017-02-16",
+              "durationInMillis": 234847,
+              "isVocalAttenuationAllowed": false,
+              "isMasteredForItunes": false,
+              "isrc": "GBLPF6693194",
+              "artwork": {
+                "width": 3000,
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/09/3e/85093ece-0d6e-130b-ab49-5835f4d07e9a/cover.jpg/{w}x{h}bb.jpg",
+                "height": 3000,
+                "textColor3": "363837",
+                "textColor2": "110e0a",
+                "textColor4": "3b3934",
+                "textColor1": "0b0d0d",
+                "bgColor": "e2e5dc",
+                "hasP3": false
+              },
+              "composerName": "Oybek va Nigora",
+              "audioLocale": "uz",
+              "url": "https://music.apple.com/uz/album/ohim/1590685020?i=1590685327",
+              "playParams": {
+                "id": "1590685327",
+                "kind": "song"
+              },
+              "discNumber": 1,
+              "isAppleDigitalMaster": false,
+              "hasLyrics": false,
+              "audioTraits": [
+                "lossless",
+                "lossy-stereo"
+              ],
+              "name": "Ohim",
+              "previews": [
+                {
+                  "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/a8/0a/fca80af7-30b9-b2cc-e3a1-bb05279dfc9b/mzaf_13826264602277944425.plus.aac.ep.m4a"
+                }
+              ],
+              "artistName": "Oybek & Nigora"
+            },
+            "meta": {
+              "contentVersion": {
+                "MZ_INDEXER": 1724479396432,
+                "RTCI": 1720267506867
+              }
+            }
+          },
+          {
+            "id": "1596922271",
+            "type": "songs",
+            "href": "/v1/catalog/uz/songs/1596922271",
+            "attributes": {
+              "hasTimeSyncedLyrics": false,
+              "albumName": "Yaxshi Bo'lardi - Single",
+              "genreNames": [
+                "Pop",
+                "Music"
+              ],
+              "trackNumber": 1,
+              "releaseDate": "2021-11-22",
+              "durationInMillis": 208615,
+              "isVocalAttenuationAllowed": false,
+              "isMasteredForItunes": false,
+              "isrc": "GBLPF6697866",
+              "artwork": {
+                "width": 3000,
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/95/61/4f95619b-b5cd-498d-fa2f-121e9d3a586c/cover.jpg/{w}x{h}bb.jpg",
+                "height": 3000,
+                "textColor3": "c1c0b2",
+                "textColor2": "edbe90",
+                "textColor4": "c29d78",
+                "textColor1": "ebe9d8",
+                "bgColor": "191b18",
+                "hasP3": false
+              },
+              "composerName": "Oybek Alimov",
+              "audioLocale": "uz",
+              "url": "https://music.apple.com/uz/album/yaxshi-bolardi/1596922270?i=1596922271",
+              "playParams": {
+                "id": "1596922271",
+                "kind": "song"
+              },
+              "discNumber": 1,
+              "isAppleDigitalMaster": false,
+              "hasLyrics": true,
+              "audioTraits": [
+                "lossless",
+                "lossy-stereo"
+              ],
+              "name": "Yaxshi Bo'lardi",
+              "previews": [
+                {
+                  "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a2/6a/55/a26a5538-f19c-8743-d0fd-0ba277b795dc/mzaf_17570118352172439235.plus.aac.ep.m4a"
+                }
+              ],
+              "artistName": "Oybek & Nigora"
+            },
+            "meta": {
+              "contentVersion": {
+                "MZ_INDEXER": 1724756031846,
+                "RTCI": 1708099786087
+              }
+            }
+          }
+        ]
+      }
+    },
+    "meta": {
+      "results": {
+        "order": [
+          "songs"
+        ],
+        "rawOrder": [
+          "songs"
+        ]
+      },
+      "metrics": {
+        "dataSetId": "ad27e2ec-0023-4396-adb6-9cc09231ea06"
+      }
+    }
+  }
